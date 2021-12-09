@@ -1,0 +1,19 @@
+{
+  "db-config": {
+    "database": "db_name",
+    "provider": 0,
+    "hostname": "localhost",
+    "password": "password",
+    "port": 5432,
+    "username": "username"
+  },
+  "token": null,
+  "prefix": ".",
+  "log-level": 2,
+  "log-path": "bot.log",
+  "log-file-rolling": 3,
+  "log-to-file": false,
+  "log-buffer": false,
+  "log-max-files": null,
+  "log-template": null
+}
