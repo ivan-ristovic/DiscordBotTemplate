@@ -3,7 +3,7 @@
 [![Discord Server](https://discord.com/api/guilds/794671727291531274/embed.png)](https://discord.gg/z7KZGQQxRz)
 
 ## About
-This is a semi-advanced Discord bot template written in C# (.NET 6) using [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus), made for developers that wish to start from a service-oriented and auto-extensible bot, rather than from scratch. The bot is backed by a database of your choice (SQLite, PostgreSQL), and it is easy to add more database providers to suit your needs. 
+This is a semi-advanced Discord bot template written in C# (.NET 6) using [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus), made for developers that wish to start from a service-oriented and auto-extensible bot, rather than from scratch. The bot is backed by a database of your choice (SQLite, PostgreSQL), and it is easy to add more database providers to suit your needs. Logging is done via Serilog, and the bot configuration file has various switches that modify the logging procedure (log level, file logging, file rolling intervals etc.). The bot comes along with a owner-only module set, supplying basic commands such as avatar/name/status changes, code execution, command manipulation etc.
 
 To see a more complex bot that inspired the creation of this example, check out [TheGodfather](https://github.com/ivan-ristovic/the-godfather)!
 
