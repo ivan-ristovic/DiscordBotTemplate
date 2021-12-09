@@ -3,7 +3,7 @@
 [![Discord Server](https://discord.com/api/guilds/794671727291531274/embed.png)](https://discord.gg/z7KZGQQxRz)
 
 ## About
-This is a semi-advanced Discord bot template written in C# (.NET 6) using DSharpPlus, made for developers that wish to start from a service-oriented and auto-extensible bot, rather than from scratch. The bot is backed by a database of your choice (SQLite, PostgreSQL), and it is easy to add more database providers to suit your needs. 
+This is a semi-advanced Discord bot template written in C# (.NET 6) using [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus), made for developers that wish to start from a service-oriented and auto-extensible bot, rather than from scratch. The bot is backed by a database of your choice (SQLite, PostgreSQL), and it is easy to add more database providers to suit your needs. 
 
 To see a more complex bot that inspired the creation of this example, check out [TheGodfather](https://github.com/ivan-ristovic/the-godfather)!
 
